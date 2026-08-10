@@ -1,0 +1,11 @@
+{
+    "last_updated": "2026-08-10T03:30:35.692978Z",
+    "firmwares": [
+        {
+            "filename": "IMRSD1MF51A004302C3F_I2C.bin",
+            "size_bytes": 57360,
+            "md5": "8a203579cbdfc465640cad63f85c8df0",
+            "download_url": "https://raw.githubusercontent.com/你的GitHub帳號/你的專案名稱/main/firmwares/IMRSD1MF51A004302C3F_I2C.bin"
+        }
+    ]
+}
