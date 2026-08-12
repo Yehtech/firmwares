@@ -8,8 +8,8 @@ FIRMWARE_DIR = "firmwares"
 OUTPUT_JSON = "catalog.json"
 
 # 【重要】請將這裡換成你的 GitHub 帳號與 Repository 名稱
-GITHUB_OWNER = "你的GitHub帳號"
-GITHUB_REPO = "你的專案名稱"
+GITHUB_OWNER = "Yehtech"
+GITHUB_REPO = "firmwares"
 BRANCH = "main"
 
 def calculate_md5(file_path):
